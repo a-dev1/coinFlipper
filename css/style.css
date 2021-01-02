@@ -8,13 +8,13 @@
 
 body {
   font-family: 'Questrial', sans-serif;
-  background-color: #fff;
+  /* background-color: #fff; */
   height: 100vh;
   margin: 0;
 }
 
 
-h1 {
+.heading {
   height: 10vh;
   text-align: center;
   font-size: 40px;
