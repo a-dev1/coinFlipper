@@ -43,7 +43,7 @@ section .wave.wave1 {
 
 section .wave.wave2 {
   animation: animate2 15s linear infinite;
-  animation z-index: 99;
+  z-index: 99;
   opacity: 0.5;
   animation-delay: -5s;
   bottom: 10px;
