@@ -93,6 +93,7 @@ section .wave.wave4 {
   background-color: #7f5af0;
   color: #fff;
   width: 100%;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
 }
 
 .heading:hover {
@@ -108,6 +109,7 @@ section .wave.wave4 {
 
 .video-container {
   width: 50%;
+  /* border: 2px solid #fff; */
 }
 
 .video-container img {
@@ -116,7 +118,7 @@ section .wave.wave4 {
   box-shadow: 0 2px 4px 0 rgba(60, 64, 67, 0.602), 0 4px 12px 4px rgba(60, 64, 67, 0.249);
   border-radius: 10px;
   position: relative;
-  transform: translateY(18vh);
+  transform: translateY(14vh);
 }
 
 .other-container {
@@ -138,6 +140,14 @@ section .wave.wave4 {
 .result-container {
   padding: 20px 0px;
   color: #fffffe;
+  margin-top: 55px;
+}
+
+.second-img {
+  position: absolute;
+  top: 20vh;
+  left: 61vw;
+  width: 300px;
 }
 
 .result {
