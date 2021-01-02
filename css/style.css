@@ -19,6 +19,8 @@ h1 {
   text-align: center;
   font-size: 40px;
   padding: 20px;
+  background-color: #00796b;
+  color: #fff;
 }
 
 .main-container {
