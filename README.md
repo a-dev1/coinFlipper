@@ -10,6 +10,11 @@ Well, this was indeed a crafty hack for us. We took a **pen stand** and attached
 ## Challenges we ran into
 📌 Creating a tf model was not familiar to us until discovering a teachable machine.<br>
 📌  The recognition was not perfect due to poor camera quality and the shiny nature of the coin.<br>
-📌  Creating support for the flipper was a tricky part.<br>
+📌  Creating support for the flipper was a tricky part.<br>  
+
+## Accomplishments that we are proud of
+✅  Used teachable Machine to create a tf model and used it in our code.<br>
+✅ Painted both sides of the coin so that recognition happens faster since the probability of each side remains unaltered.<br>
+✅  Could come out with a working flipper machine as planned !<br>
 
 
