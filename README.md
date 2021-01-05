@@ -17,4 +17,8 @@ Well, this was indeed a crafty hack for us. We took a **pen stand** and attached
 ✅ Painted both sides of the coin so that recognition happens faster since the probability of each side remains unaltered.<br>
 ✅  Could come out with a working flipper machine as planned !<br>
 
+## What we had learned
+⭐  Using TensorFlow for the first time<br>
+⭐  Using OpenCV to stream camera output to the website.<br>
+⭐ Creating animations on Website<br>  
 
