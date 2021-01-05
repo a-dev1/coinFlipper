@@ -22,3 +22,9 @@ Well, this was indeed a crafty hack for us. We took a **pen stand** and attached
 ⭐  Using OpenCV to stream camera output to the website.<br>
 ⭐ Creating animations on Website<br>  
 
+## What's next for Flip Your Vibe
+📍  Find a way to handle concurrent requests and queue them.<br>
+📍  Build something similar for randomizing another property<br>
+📍  Currently, this project works in my local network. We could not make it public owing to risk factors of port forwarding my local network.<br>
+📍  Find a way to make this public.<br>
+
